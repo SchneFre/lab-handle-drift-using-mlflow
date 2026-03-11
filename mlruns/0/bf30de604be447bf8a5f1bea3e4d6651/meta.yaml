@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Ironhack/04%20Python/Week%2038%20AWS/lab-handle-drift-using-mlflow/mlruns/0/bf30de604be447bf8a5f1bea3e4d6651/artifacts
+end_time: 1773226558856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf30de604be447bf8a5f1bea3e4d6651
+run_name: aged-rook-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773226554902
+status: 3
+tags: []
+user_id: Friedrich

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Ironhack/04%20Python/Week%2038%20AWS/lab-handle-drift-using-mlflow/mlruns/0/models/m-dafa049c28de4a5788f47f7215a2548e/artifacts
+creation_timestamp: 1773226301292
+experiment_id: '0'
+last_updated_timestamp: 1773226306095
+model_id: m-dafa049c28de4a5788f47f7215a2548e
+model_type: null
+name: model
+source_run_id: c737931fb8a54d3982438a9013f9d876
+status: 2
+status_message: null

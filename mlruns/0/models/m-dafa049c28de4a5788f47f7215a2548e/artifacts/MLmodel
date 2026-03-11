@@ -1,0 +1,31 @@
+artifact_path: file:///C:/Ironhack/04%20Python/Week%2038%20AWS/lab-handle-drift-using-mlflow/mlruns/0/models/m-dafa049c28de4a5788f47f7215a2548e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-dafa049c28de4a5788f47f7215a2548e
+model_size_bytes: 142793
+model_uuid: m-dafa049c28de4a5788f47f7215a2548e
+prompts: null
+run_id: c737931fb8a54d3982438a9013f9d876
+signature:
+  inputs: '[{"type": "double", "name": "sepal length (cm)", "required": true}, {"type":
+    "double", "name": "sepal width (cm)", "required": true}, {"type": "double", "name":
+    "petal length (cm)", "required": true}, {"type": "double", "name": "petal width
+    (cm)", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-03-11 10:51:41.365091'
